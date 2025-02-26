@@ -8,8 +8,8 @@ function sum(a, b) {         // Assigned
                                 Function decleration
 }
 
-let FinalSum = sum("10",20);     //     Provided
-let FinalSum2 = sum(52,564);     //     values; Function call
+let FinalSum = sum("10",20);     // Provided
+let FinalSum2 = sum(52,564);     // values; Function call
 
 console.log(FinalSum);
 console.log(FinalSum2);
@@ -493,7 +493,7 @@ function setTimeoutPromisified(ms) {                            --> This part he
   R.then(callback);
 
 
-  //while loop, for loop & the difference of it from a for loop
+  /*while loop, for loop & the difference of it from a for loop*//*
 
   //for loop
   for (let i=0; i<5; i++) {
@@ -514,4 +514,3 @@ function setTimeoutPromisified(ms) {                            --> This part he
     i++
   } while(i<5)
                                                                       */
-  
